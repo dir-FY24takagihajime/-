@@ -1,6 +1,6 @@
 package 復習;
 
-public class Str {
+public class Str{
 
     public static void main(String[] args) {
         int one[] = {76, 56, 38};
